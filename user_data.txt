@@ -1,0 +1,21 @@
+Name: Prabin Acharya
+Age: 20
+Contact no.: 9741778031
+Location: dharan
+E-mail address: acharyaprabin@gmail.com
+Password:prabinacharya
+BloodGroup:O+/n
+Name: pratik acharya
+Age: 19
+Contact no.: 9860987466
+Location: Dharan
+E-mail address: apratik331@gmail.com
+Password:pratikacharya
+BloodGroup:A+/n
+Name: pratik Acharya
+Age: 19
+Contact no.: 9860987466
+Location: Dharan
+E-mail address: apratik331@gmail.com
+Password:pratikacharya
+BloodGroup:A+/n
